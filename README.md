@@ -1,6 +1,6 @@
 # Hi there, I'm Tim 👋
 
-I'm a **Freelance Frontend Developer** from Hamburg. I love to develop simple, efficient and sustainable frontend solutions and I work with a strong focus on responsive design, web performance and accessibility.
+I'm a **Freelance Frontend Developer and UI Engineer** from Hamburg. I love to develop efficient and sustainable frontend solutions and work with high design affinity and a strong focus on UI engineering, responsive design, web performance and accessibility.
 
 🏠 https://tim-grochowski.de
 
