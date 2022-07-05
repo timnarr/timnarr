@@ -6,8 +6,8 @@ I'm a **Freelance Frontend Developer and UI Engineer** from Hamburg. I love to d
 
 <br>
 <a href="https://twitter.com/ti_gr">
-  <img align="left" alt="Twitter profile Tim Grochowski" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter profile Tim Grochowski" style="margin-bottom: 5px;">
 </a>
 <a href="https://www.linkedin.com/in/tim-grochowski/">
-  <img align="left" alt="LinkdeIn profile Tim Grochowski" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkdeIn profile Tim Grochowski" style="margin-bottom: 5px;">
 </a>
