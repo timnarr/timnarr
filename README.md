@@ -2,7 +2,7 @@
 
 I'm a **Freelance Frontend Developer and UI Engineer** from Lüneburg, near Hamburg. I love to develop efficient and sustainable frontend solutions and work with high design affinity and a strong focus on UI engineering, responsive design, web performance and accessibility.
 
-🏠 https://tim-grochowski.de
+🏠 https://tim-narr.com
 
 <br>
 <a href="https://mastodon.social/@ti_gr">
