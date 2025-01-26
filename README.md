@@ -6,7 +6,7 @@ I'm a **Freelance Frontend Developer and UI Engineer** from Lüneburg, near Hamb
 
 <br>
 <a href="https://bsky.app/profile/tim-narr.bsky.social">
-  <img src="https://img.shields.io/badge/bluesky%230085ff.svg?&amp;style=for-the-badge&amp;logo=bluesky&amp;logoColor=white" alt="Bluesky profile Tim Narr" style="margin-bottom: 5px;">
+  <img src="https://img.shields.io/badge/bluesky-%230085ff.svg?&amp;style=for-the-badge&amp;logo=bluesky&amp;logoColor=white" alt="Bluesky profile Tim Narr" style="margin-bottom: 5px;">
 </a>
 <a href="https://mastodon.social/@ti_gr">
   <img src="https://img.shields.io/badge/mastodon-%236d6eff.svg?&amp;style=for-the-badge&amp;logo=mastodon&amp;logoColor=white" alt="Mastodon profile Tim Narr" style="margin-bottom: 5px;">
